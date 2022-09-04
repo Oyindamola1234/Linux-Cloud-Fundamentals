@@ -23,3 +23,9 @@ https://docs.aws.amazon.com/cli/latest/reference/ec2/reboot-instances.html
 Quickstart for AWS CloudShell
 
 https://docs.aws.amazon.com/cloudshell/latest/userguide/working-with-cloudshell.html
+
+1. Virtual Machine created (MACHINE) <i-0f573b97792313431> 
+2. Virtual Machine connected <18.222.43.76>
+3. Virtual Machine Image Used (Amazon Linux 2 Kernel 5.10 AMI 2.0.20220805.0 x86_64 HVM gp2)
+4. Virtual Machine Size (8 Gib)
+5. VM power state (Running)
