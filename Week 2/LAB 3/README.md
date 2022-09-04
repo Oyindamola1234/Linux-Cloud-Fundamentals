@@ -24,3 +24,11 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-automate-
 Create bootstrap actions to install additional software
 
 https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-plan-bootstrap.html
+
+
+
+1. LINUX VM created (MACHINE 3) <i-021ee54d97206ef6f>
+2. Apache Web Server Installed on CloudSHELL 
+3. Command line started 
+4. Service status (Running)
+5. Ok 
